@@ -1,4 +1,3 @@
-# 2HourChatbotTraining
 
 This is the import file that you import into Dialogflow.
 The agent serves to  to promote a family day event.
